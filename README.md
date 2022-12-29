@@ -1,7 +1,5 @@
 # amazedb
 
-![Tests](https://github.com/jalaj-k/amazedb/workflows/Tests/badge.svg)
-![Upload Python Package](https://github.com/jalaj-k/amazedb/workflows/Upload%20Python%20Package/badge.svg)
 ![Version](https://img.shields.io/badge/Version-1.1.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
